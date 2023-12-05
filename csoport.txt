@@ -1,0 +1,4 @@
+Név/Évfolyam/Átlag
+Gipsz Jakab/1/4,5
+Pán Péter/2/3,6
+Ütő Imre/1/4,3
